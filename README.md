@@ -47,6 +47,9 @@ Here, pointer of 9 should point to null.
  
 4. Print all the elements in the linked list.
 Output: 23, 52, 19, 9, 100
+![屏幕快照 2023-06-01 10 06 48](https://github.com/CS5008-5009/lab3-YunHao12/assets/128429226/b72a8d35-6a04-4705-a195-cbfaa26a29ae)
+![屏幕快照 2023-06-01 10 07 20](https://github.com/CS5008-5009/lab3-YunHao12/assets/128429226/c28d66de-fb1a-40f8-a6f8-a0477d2ad384)
+
 
 PART 2:
 Implement a doubly linked list using structures in C. 
